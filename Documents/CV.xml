@@ -1,0 +1,90 @@
+<CV>
+    <Person commonName="Ant">
+        <Name fullName="Antonio Moore">
+            <FirstName>Antonio</FirstName>
+            <LastName>Moore</LastName>
+        </Name>
+        <EmailAddress>antoniomoore.am91@gmail.com</EmailAddress>
+        <MobileNumber>07462918816</MobileNumber>
+        <Address>
+            <HouseNumber>158a</HouseNumber>
+            <Street>Woodthorpe Road</Street>
+            <Town>Birmingham</Town>
+            <County>West-Midlands</County>
+            <PostCode>B14 6EQ</PostCode>
+        </Address>
+        <DateOfBirth shortDateString="07-02-1991">
+            <Day>7</Day>
+            <Month>2</Month>
+            <Year>1991</Year>
+        </DateOfBirth>
+    </Person>
+    <Profile>
+        <![CDATA[
+            I love software. It all began back when I was about 8 years old. Me and my dad created a tally chart on MS Publisher and went to count the number of cars, vans and lorries that drove under us as we stood on that bridge overlooking the motorway.&lt;br /&gt;&lt;br /&gt;We took the information back and began playing around with formulas and graphs on MS Excel. I was hooked. Back then, and even to this day, I was amazed at how you could take the real world and digitalise it; play with it and produce something interesting and useful.&lt;br /&gt;&lt;br /&gt;As a full-stack web developer, this is something I get to enjoy every day. I take people&#39;s ideas, businesses, dreams and hopes and digitalise them; manipulate them into something with meaning, purpose and inspiration.&lt;br /&gt;&lt;br /&gt;I achieve this using C# and MVC 5 for back-end solutions, and JavaScript and CSS3 for the front-end magic. I make use of RequireJS and the jQuery library to produce reliable, effective and robust experiences. Bootstrap is my preferred responsive framework; allowing me to focus on the client&#39;s requirements and intricacies, whilst remaining safe in the knowledge that I have a robust, yet flexible, mobile-friendly platform supporting me.&lt;br /&gt;&lt;br /&gt;MS-SQL is my database flavour of choice and I use both Azure and shared hosting solutions in both my professional and personal development pursuits.&lt;br /&gt;&lt;br /&gt;Stack Overflow is my bible, GitHub and Gists; my tool bag, and Visual Studio is my playground. These are the holy trinity, sacred and trusty companions on my awesome journey through my life as a developer.
+        ]]>
+    </Profile>
+    <WorkExperience employmentStatus="Employed">
+        <Position>Website Developer</Position>
+        <Company>HROC</Company>
+        <StartDate shortDateString="09-2015">
+            <Month>9</Month>
+            <Year>2015</Year>
+        </StartDate>
+        <EndDate shortDateString=""></EndDate>
+        <Details>
+            <![CDATA[
+                I work on both customer facing and back-office solutions for several clients, using Azure to host the systems built, in most cases, on a .NET CMS suite called BetterCMS. During my time at HROC I have worked primarily with two clients; the first, building a recruitment website that integrates with several third party systems.&lt;br /&gt;&lt;br /&gt;Using Angular, their back-office solution is a sleek SPA, that provides an API layer for the front-end to access. Limitations of the CMS suite at the time of this project allowed me to delve into the inner workings of the OAuth 2.0 protocol to provide integrations to the big social media players.&lt;br /&gt;&lt;br /&gt;The second client has many software solutions that are provided by our company and I have had the pleasure of building both the customer facing website and rebuilding their internal reporting suite. I&#39;m currently working on a project that requires refactoring old web forms into an MVC architecture whilst focusing on improving security and user experience.&lt;br /&gt;&lt;br /&gt;When I came to HROC I had no experience at all with the MVC architecture, or the C# language, but within 2 weeks, I was working completely independently on my first project.&lt;br /&gt;&lt;br /&gt;This is what I do. First, I understand the project, then I focus my complete attention to acquiring the knowledge and skills to fulfil the required task. Have you ever seen The Matrix? – Well, just as Neo learned Kung Fu, I know C#.
+            ]]>
+        </Details>
+    </WorkExperience>
+    <WorkExperience employmentStatus="Resigned">
+        <Position>Website Developer &amp; Support Team Leader</Position>
+        <Company>MediaLinks Online</Company>
+        <StartDate shortDateString="12-2012">
+            <Month>12</Month>
+            <Year>2012</Year>
+        </StartDate>
+        <EndDate shortDateString="09-2015">
+            <Month>9</Month>
+            <Year>2015</Year>
+        </EndDate>
+        <Details>
+            <![CDATA[
+                At the apex of my time at MediaLinks Online, I was heading up the support department, whilst producing high level internal applications as well as functional customer-facing websites.&lt;br /&gt;&lt;br /&gt;We worked with VB.NET web forms and many of the builds were branches of our in-house CMS. I&#39;ve worked with several web applications for Kawasaki Motors UK; an e-learning platform, a customer service indicator survey system and a finance calculator for new motorcycles.&lt;br /&gt;&lt;br /&gt;I had great exposure to both SOAP protocols and RESTful applications. Prior to my time at MediaLinks, the company had very little exposure to using technologies such as AJAX and relied very heavily on clunky Microsoft controls and web services. Identifying how we could greatly improve the user experience by tackling the challenge of using more modern technologies, I spear-headed the shift to a more RESTful approach to development.&lt;br /&gt;&lt;br /&gt;One of my biggest achievements here was to re-write, from the ground-up, the web platform for all Kawasaki UK dealerships. The original platform had become slow and dated over time and a new version of the system was required. I heavily researched the best practices in user interface and experience design and produced an extremely improved version of the sites. You can read more about this &lt;a href=&quot;https://medium.com/@antoniomoore.am91/kawasaki-website-solutions-rebuild-f47e33a24f6f&quot;&gt;on my Medium post&lt;/a&gt;, or if you&#39;d prefer; let&#39;s grab a coffee and chew the fat!&lt;br /&gt;&lt;br /&gt;When I wasn&#39;t making awesome applications and solving interesting problems, I was responsible for heading up the support team. At its largest, our department had three employees including myself. I was responsible for organising the team&#39;s day and ensuring that support cases were dealt with effectively and efficiently, whilst serving as an escalation point if necessary.&lt;br /&gt;&lt;br /&gt;The two guys on my team were both apprentices and it was my responsibility to nurture their growth within the business. Starting from the basics of demonstrating what a variable or function is and working up to assisting with the development of large-scale applications, it was my job to guide the apprentices through the same journey I had taken a few years before. Which is an excellent segue into…
+            ]]>
+        </Details>
+    </WorkExperience>
+    <WorkExperience employmentStatus="Promoted">
+        <Position>Apprentice Web Developer</Position>
+        <Company>MediaLinks Online</Company>
+        <StartDate shortDateString="12-2011">
+            <Month>12</Month>
+            <Year>2011</Year>
+        </StartDate>
+        <EndDate shortDateString="12-2012">
+            <Month>12</Month>
+            <Year>2012</Year>
+        </EndDate>
+        <Details>
+            <![CDATA[
+                My introduction to the world of professional development; an apprentice hungry for knowledge, guidance and an occasional high-five. I started out as a Level 2 apprentice and gained several CIW certifications along the way. In 2013, I actually completed my Level 3 apprenticeship.&lt;br /&gt;&lt;br /&gt;When I started out here, much like at HROC, I knew nothing of the technologies and had at best, an intermediate understanding of HTML, CSS and PHP variables and basic functions. What I did have was an affinity for learning new things, an interest in the art of development and a consideration for developing awesome customer experiences. When people use my websites, I want them to have the same wonder as that 8-year-old kid playing around with rudimentary Excel functions.&lt;br /&gt;&lt;br /&gt;Although my role was initially focused on content management, I quickly developed my curiosity for the full stack of development and spent many hours researching the new opportunities being presented to me. Within the first year I was already working on small sections of the Kawasaki Customer Service Indicator system independently, bringing new ideas to the table.
+            ]]>
+        </Details>
+    </WorkExperience>
+    <TLDR>
+        <![CDATA[
+            I have an innate curiosity when it comes to the development of websites. I learn extremely quickly and have had the opportunity to work on exciting projects with exciting clients. I take pride in my affinity to learn and absolutely love having the opportunity to pass my knowledge on.&lt;br /&gt;&lt;br /&gt;The internet isn&#39;t just a job for me. It&#39;s pretty much my life; I use it for everything and I owe everything to it.
+        ]]>
+    </TLDR>
+    <PersonalPursuits>
+        <![CDATA[
+            If you&#39;re still reading, then I guess you wouldn&#39;t mind hearing about the cool things I like to do in my spare time: I have a YouTube channel and spend too many hours watching other videos (It&#39;s the fascination with the digitalisation of life again). I love going the gym and when I&#39;m not there, or at my desk, I&#39;m probably at the cinema (although ask me about any epic film and I&#39;ve probably not seen it).
+        ]]>
+    </PersonalPursuits>
+    <ClosingRemark>
+        <![CDATA[
+            Well, that&#39;s enough about me. Give me a call. Let&#39;s talk about you.
+        ]]>
+    </ClosingRemark>
+</CV>
